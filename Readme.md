@@ -8,7 +8,7 @@
 * `Objective Functions`
 * `Activation Functions`
 
-For Detailed Result see... [Report](https://github.com/miroblog/AI2017SpringMiniProject/blob/master/AI17S_Report.pdf)  
+For Detailed Result see... summary [Report](https://github.com/miroblog/AI2017SpringMiniProject/blob/master/AI17S_Report.pdf)  
 [Code]  
 * [MNIST] mnist_architecture_tuning.py, mnist_objective_func.py
 * [Cifar10] cifar10_architecture_tuning.py, cifar10_objective_func.py   
